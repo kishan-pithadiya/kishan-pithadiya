@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishan Pithadiya</h1>
 <h3 align="center">A passionate to learn new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Data Science with Python**
