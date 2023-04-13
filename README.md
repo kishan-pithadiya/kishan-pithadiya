@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kishan Pithadiya</h1>
-<h3 align="center">A passionate full stack developer in python from India</h3>
+<h3 align="center">A passionate to learn new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 - 🔭 I’m currently working on **of Python**
 
-- 🌱 I’m currently learning **Flask and Django web frameworks of Python**
+- 🌱 I’m currently learning **Data Science with Python**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 🤝 I’m looking for help with **Python Developers**
 
-- 🤝 I’m looking for help with **Python Web Developers**
-
-- 💬 Ask me about **Python , Flask , Django**
+- 💬 Ask me about **Python , Django , Data Science, Development**
 
 - 📫 How to reach me **kishanpithadiya2112@gmail.com**
 
