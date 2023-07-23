@@ -2,13 +2,13 @@
 <h3 align="center">A passionate to learn new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Data Science with Python**
+- 🌱 I’m currently learning **Backend Development**
 
-- 🤝 I’m looking for help with **Python Developers**
+- 🤝 I’m looking for help with **Full Stack Developers**
 
-- 💬 Ask me about **Python , Django , Data Science, Development**
+- 💬 Ask me about **JavaScript , Python , Django , Development**
 
 - 📫 How to reach me **kishanpithadiya2112@gmail.com**
 
