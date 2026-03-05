@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 🤝 I’m looking for help with **Software Developer**
-
 - 📫 How to reach me **kishanpithadiya10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
