@@ -4,7 +4,7 @@
 
 - 🔭 I’ve experienced in **Software Engineering**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently pursuing M.sc. **Data Science** At TU Dortmund University
 
 - 📫 How to reach me **kishanpithadiya10@gmail.com**
 
