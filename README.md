@@ -1,17 +1,30 @@
-<h1 align="center">Hi 👋, I'm Kishan Pithadiya</h1>
-<h3 align="center">A passionate to learn new technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+# Hi, I'm Kishan Pithadiya 👋
+### AI Systems Developer & Software Engineer 
 
-- 🔭 I’ve experienced in **Software Engineering**
+I bridge the gap between **robust software engineering** and **applied AI intelligence**. With a strong foundation in full-stack backend development, scalable APIs, and clean software architecture, I specialize in building **production-grade Autonomous Multi-Agent Systems**, **Evaluated RAG Pipelines**, and **Multimodal Decision Engines**.
 
-- 🌱 I’m currently pursuing M.Sc. **Data Science** At TU Dortmund University
+---
 
-- 📫 How to reach me **kishanpithadiya10@gmail.com**
+### 💼 What I Bring to the Table:
+- **Production AI Engineering:** Designing autonomous multi-agent state machines (LangGraph, CrewAI) with deterministic guardrails and self-healing loops.
+- **Full-Cycle Software Engineering:** Building secure REST APIs, clean backend architectures, asynchronous microservices, and Dockerized deployments.
+- **Data & Evaluation:** Constructing end-to-end data pipelines and benchmarking LLM/RAG systems using quantitative evaluation frameworks (Ragas, TruLens).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kishan-pithadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan-pithadiya" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Stack:
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **AI & Agentic Systems** | LangGraph, CrewAI, LangChain, Multi-Agent Supervisors, Guardrails, Prompt Engineering |
+| **LLMs & Foundations** | GPT-4o, Claude 3.5 Sonnet, Google Gemini, Ollama, HuggingFace Transformers |
+| **Deep Learning & CV** | PyTorch, Torchvision, DenseNet-121, U-Net Segmentation, OpenCV |
+| **Software & Backends** | Python, FastAPI, Django, RESTful APIs, Starlette, Uvicorn, Jinja2 |
+| **Data & Vector Stores** | Qdrant, FAISS, PostgreSQL, SQLite, Vector Embeddings, RAG Architectures |
+| **DevOps & Tooling** | Docker, Git, GitHub Actions (CI/CD), Linux / Bash, Postman |
+
+---
+
+### 📬 Connect with Me:
+- **LinkedIn:** [linkedin.com/in/kishan-pithadiya](linkedin.com/in/kishan-pithadiya)
+- **Email:** kishanpithadiya10@gmail.com
