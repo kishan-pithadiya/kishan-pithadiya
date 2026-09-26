@@ -1,5 +1,5 @@
 # Hi, I'm Kishan Pithadiya 👋
-### AI Systems Developer & Software Engineer 
+### AI Systems Developer
 
 I bridge the gap between **robust software engineering** and **applied AI intelligence**. With a strong foundation in full-stack backend development, scalable APIs, and clean software architecture, I specialize in building **production-grade Autonomous Multi-Agent Systems**, **Evaluated RAG Pipelines**, and **Multimodal Decision Engines**.
 
